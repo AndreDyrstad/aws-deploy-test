@@ -1,0 +1,21 @@
+Create a group
+
+Create any resouces needed
+Create a resource definition
+
+Create new device
+Create keys and certs for the thing
+Create an IAM policy for the cert
+Connect policy to cert
+Connect thing to cert
+Create a core definition (version)
+
+Create a lambda function
+Create a function definition
+
+Create a subscription definition
+
+Create a connector e.g. SNSConnector
+Create a connector definition
+
+Version a group
